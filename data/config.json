@@ -1,39 +1,48 @@
 {
   "title": "Ottawa's 2026 mayoral vote",
   "subtitle": "Every vote cast, placed in the voting place it came from.",
-  "about": "<p class=\"note\">Results: City of Ottawa 2026 Statement of Votes Cast, by voting place. Ward advance votes are spread over each ward's voting places, and citywide special advance and mail-in votes over all voting places, in proportion to each candidate's election-day votes.<\/p><p class=\"note\">Where dots go: residential buildings (Statistics Canada National Address Register, June 2026) are assigned to the City's 2026 voting subdivisions; each voting place's votes are placed at its buildings in proportion to their residential units. Retirement-home and other voting places with no residential building are placed inside their own subdivision. Non-voters are not shown.<\/p><p class=\"note\">Dots sit at residential addresses; buildings with several dots spread them in a spiral. Zoom is capped so individual houses can't be picked out.<\/p><p class=\"note\">Sources: contains information licensed under the <a href=\"https://ottawa.ca/en/city-hall/open-transparent-and-accountable-government/open-data#open-data-licence-version-2-0\">Open Government Licence – City of Ottawa<\/a> (election results, voting subdivisions). Adapted from Statistics Canada, National Address Register; this does not constitute an endorsement by Statistics Canada of this product (<a href=\"https://www.statcan.gc.ca/en/reference/licence\">Statistics Canada Open Licence<\/a>). Basemap © <a href=\"https://openstreetmap.org/copyright\">OpenStreetMap<\/a> contributors, via <a href=\"https://protomaps.com\">Protomaps<\/a>.<\/p>",
-  "center": [-75.7, 45.4],
+  "about": "<p class=\"note\">Results: City of Ottawa 2026 Statement of Votes Cast, by voting place. Ward advance votes are spread over each ward's voting places, and citywide special advance and mail-in votes over all voting places, in proportion to each candidate's election-day votes.</p><p class=\"note\">Where dots go: residential buildings (Statistics Canada National Address Register, June 2026) are assigned to the City's 2026 voting subdivisions; each voting place's votes are placed at its buildings in proportion to their residential units. Retirement-home and other voting places with no residential building are placed inside their own subdivision. Non-voters are not shown.</p><p class=\"note\">Dots sit at residential addresses; buildings with several dots spread them in a spiral. Zoom is capped so individual houses can't be picked out.</p><p class=\"note\">Sources: contains information licensed under the <a href=\"https://ottawa.ca/en/city-hall/open-transparent-and-accountable-government/open-data#open-data-licence-version-2-0\">Open Government Licence – City of Ottawa</a> (election results, voting subdivisions). Adapted from Statistics Canada, National Address Register; this does not constitute an endorsement by Statistics Canada of this product (<a href=\"https://www.statcan.gc.ca/en/reference/licence\">Statistics Canada Open Licence</a>). Basemap © <a href=\"https://openstreetmap.org/copyright\">OpenStreetMap</a> contributors, via <a href=\"https://protomaps.com\">Protomaps</a>.</p>",
+  "center": [
+    -75.7,
+    45.4
+  ],
   "zoom": 12.6,
   "bounds": [
-    [-76.6401, 44.7753],
-    [-74.9501, 45.7259]
+    [
+      -76.6401,
+      44.7753
+    ],
+    [
+      -74.9501,
+      45.7259
+    ]
   ],
   "basemap": "basemap.pmtiles",
   "categories": [
     {
       "key": "sutcliffe",
       "label": "Mark Sutcliffe",
-      "color": "#8368fb"
+      "color": "#2fc48c"
     },
     {
       "key": "leiper",
       "label": "Jeff Leiper",
-      "color": "#26a127"
+      "color": "#ef4060"
     },
     {
       "key": "saravanamuttoo",
       "label": "Neil Saravanamuttoo",
-      "color": "#4aa8e0"
+      "color": "#e8b020"
     },
     {
       "key": "lawson",
       "label": "Alex Lawson",
-      "color": "#d55181"
+      "color": "#7a6cff"
     },
     {
       "key": "other",
       "label": "Other candidates",
-      "color": "#5a5954"
+      "color": "#4a4946"
     }
   ]
 }
